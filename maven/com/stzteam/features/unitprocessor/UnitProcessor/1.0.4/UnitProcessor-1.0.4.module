@@ -28,10 +28,10 @@
           "name": "UnitProcessor-1.0.4.jar",
           "url": "UnitProcessor-1.0.4.jar",
           "size": 5928,
-          "sha512": "70112af9b6081420958efec61f6a6deb3e2a363418fc30fcbce3c6423b1bf856116bbb4f2bfbaaff393f8bad2889fd2eb3ab92eaa756bcf51b541d03f192a4e4",
-          "sha256": "80b1adb1b76e025c94f4c34361f8c82af7704c9ac966564df51e4c2bcbbfb40a",
-          "sha1": "dbb415d30fac24f6d99dcbb260f0ba652bd5d418",
-          "md5": "1d39a5a9167c8ea51b2b624171bfe39d"
+          "sha512": "a22434062308b25b558adc9f45c1cbc253d4f55de75337155bb55f994fc926a8cba789c5cd1e72c520711585c267adc55e98ca6dece90e6ff47b65abc502fa60",
+          "sha256": "7f99c6bb68e81f8bda8cfc7e7b5eac77898194f08acd6b8f93a8cbaeb0bd9139",
+          "sha1": "f43978cd6d31c48e744b569b5e7be5a20f38f21b",
+          "md5": "2e9a9d20f80396415e29b9131561c46a"
         }
       ]
     },
@@ -198,10 +198,10 @@
           "name": "UnitProcessor-1.0.4.jar",
           "url": "UnitProcessor-1.0.4.jar",
           "size": 5928,
-          "sha512": "70112af9b6081420958efec61f6a6deb3e2a363418fc30fcbce3c6423b1bf856116bbb4f2bfbaaff393f8bad2889fd2eb3ab92eaa756bcf51b541d03f192a4e4",
-          "sha256": "80b1adb1b76e025c94f4c34361f8c82af7704c9ac966564df51e4c2bcbbfb40a",
-          "sha1": "dbb415d30fac24f6d99dcbb260f0ba652bd5d418",
-          "md5": "1d39a5a9167c8ea51b2b624171bfe39d"
+          "sha512": "a22434062308b25b558adc9f45c1cbc253d4f55de75337155bb55f994fc926a8cba789c5cd1e72c520711585c267adc55e98ca6dece90e6ff47b65abc502fa60",
+          "sha256": "7f99c6bb68e81f8bda8cfc7e7b5eac77898194f08acd6b8f93a8cbaeb0bd9139",
+          "sha1": "f43978cd6d31c48e744b569b5e7be5a20f38f21b",
+          "md5": "2e9a9d20f80396415e29b9131561c46a"
         }
       ]
     }
