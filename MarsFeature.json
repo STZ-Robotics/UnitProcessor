@@ -10,7 +10,7 @@
   "forgeMiniRequired": ">=1.1.0",
 
   "mavenUrls": [
-    "https://imcab.github.io/UnitProcessor/maven/"
+    "https://stz-robotics.github.io/UnitProcessor/maven/"
   ],
   "javaDependencies": [
     {
